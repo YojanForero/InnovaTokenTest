@@ -1,7 +1,7 @@
 {
   "name": "Innovatech Token Test",
   "symbol": "ITT",
-  "uri": "https://tu-servidor.com/metadata.json",
+  "uri": "https://raw.githubusercontent.com/YojanForero/InnovaTokenTest/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 0,
   "creators": null
 }
